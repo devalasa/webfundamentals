@@ -148,7 +148,7 @@
   height: 100px; 
   background-color: blue; 
 } 
-/* Activity 6 styles */ 
+/* Activity 6 styles error*/ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
   display: grid;
