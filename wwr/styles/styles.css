@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: #6a6d6d;
+    background-color: #7bc4d5;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -79,7 +79,7 @@ main section {
 
 #background {
     height: 725px;
-    background-color: #f5de73;
+    background-color: #6f8cca;
     grid-column: 1/11;
     grid-row:4/9;
 }
@@ -107,7 +107,7 @@ nav a:hover {
 }
 
 .msg {
-    background-color: darkturquoise;
+    background-color: #194ba8;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
@@ -158,7 +158,7 @@ nav a:hover {
 }
 
 footer {
-    background-color: #8d8787;
+    background-color: #052555;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
@@ -176,7 +176,7 @@ footer a:hover {
 }
 
 footer h3 {
-    color: black;
+    color: #ffff;
     text-decoration: underline;
 }
 
