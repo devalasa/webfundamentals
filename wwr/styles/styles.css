@@ -90,7 +90,7 @@ body {
 
 nav a:hover {
     background-color: #8d8787;
-    color: blue;
+    color: rgb(54, 54, 218);
 }
 
 .book, .join {
