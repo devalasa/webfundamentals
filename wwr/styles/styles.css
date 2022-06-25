@@ -42,15 +42,17 @@ nav a {
     grid-column: 2/3;
     grid-row: 1/2;
     margin-top: 100px;
+    max-height: 30px;
 }
 
 #hero-msg h4{
     color: white;
     align-items: center;
+
 }
 
 #hero-msg h1{
-    margin-top: 100px;
+    margin-top: 120px;
 }
 
 #hero-msg h1, #hero-msg h4 {
