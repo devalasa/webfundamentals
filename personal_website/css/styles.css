@@ -3,6 +3,9 @@
     margin: 0 auto;
 }
 
+body {
+    background-color: #9BF3F0;
+}
 
 header {
     background-color: #daffed;
@@ -151,10 +154,6 @@ main section {
     box-shadow: 5px 5px 10px #6f7364;
 }
 
-body {
-    background-color: #fcfbfb;
-}
-
 .book, .join {
     background-color: rgb(196, 196, 243);
     text-decoration: none;
@@ -193,15 +192,16 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border: 5px solid white;
 }
 
 footer a {
-    color: rgb(61, 61, 182);
+    color: #3d3db6;
     text-decoration: none;
 }
 
 footer a:hover {
-    color: rgb(238, 173, 173);
+    color: #eeadad;
 }
 
 footer h3 {
@@ -270,10 +270,6 @@ footer h3 {
     grid-row: 1/2;
     max-width: 100%;
     height: 250px;
-}
-
-main {
-    background-color: #9BF3F0;
 }
 
 #service-msg {
