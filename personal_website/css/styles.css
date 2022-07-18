@@ -84,17 +84,18 @@ nav a.active {
     grid-row: 1/2;
     margin-top: 100px;
     max-height: 30px;
+    color: white;
 }
 
 #hero-msg h4{
-    color: black;
+    color: white;
     align-self: center;
 
 }
 
 #hero-msg h1{
     margin-top: 120px;
-    color: black;
+    color: white;
 }
 
 #hero-msg h1, #hero-msg h4 {
@@ -392,13 +393,13 @@ form {
   }
   
   #hero-msg h4 {
-      color: black;
+      color: white;
       align-self: center;
   }
   
   #hero-msg h1 {
       margin-top: 120px;
-      color: black;
+      color: white;
       text-align: center;
   }
   
@@ -442,7 +443,12 @@ form {
     grid-column: 1/2;
     margin-left: 100px;
   }
-  
+  .contact {
+    grid-column: 3/4;
+    text-align: justify;
+    margin-top: -30px;
+  }
+
   .contactusimg {
     grid-column: 3/4;
     grid-row: 1/3;
