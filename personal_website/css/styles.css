@@ -259,25 +259,12 @@ footer h3 {
 
 /*SERVICES CSS DESIGN*/
 
-
-#service-box {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 1fr;
-    background-color: #9BF3F0;
-}
-#service-img {
-    grid-column: 1/3;
-    grid-row: 1/2;
-    max-width: 100%;
-    height: 250px;
-}
-
 #service-msg {
     margin-top: -20px;
     text-align: center;
     height: -50px;
     color: #3f3fdae3;
+    margin-left: 600px;
 }
 
 .service-grid {
@@ -337,7 +324,7 @@ footer h3 {
     grid-column: 2/4;
     text-align: justify;
     font-size: 20px;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 .service-paragraph3 h2 {
@@ -348,7 +335,7 @@ footer h3 {
 .service-img3 {
     grid-column: 1/2;
     grid-row: 1/2;
-    margin-left: -450px;
+    margin-left: -500px;
     max-width: 50%;
     margin-top: -300px;
     border: 5px solid #E2E0EB;
