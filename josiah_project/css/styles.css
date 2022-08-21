@@ -1,0 +1,105 @@
+body {
+    background-color: #dfe3ee;
+    margin: 0%;
+    padding: 0%;
+}
+.facebook {
+    margin-top: 200px;
+    margin-left: 150px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #1877f2;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+.container {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    margin-top: -194px;
+    margin-right: 160px;
+    float: right;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.form {
+    margin-top: 12px;
+    background-color: white;
+    float: right;
+    padding: 16px;
+}
+
+.form input {
+    margin-top: 10px;
+    padding: 17px;
+    width: 332px;
+    margin-left: -10px;
+    margin-right: -10px;
+    border-radius: 8px;
+}
+
+button {
+    margin-top: 15px;
+    background-color: #1877f2;
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+button a {
+    color: white;
+}
+
+button a:hover {
+    color: blue;
+}
+
+p {
+    background-color: white;
+    font-size: 16px;
+    color: #1877f2;
+    margin-top: 10px;
+}
+
+p a {
+    color: #1877f2;
+}
+
+p a:hover {
+    color: rgb(0, 39, 112);
+}
+
+.btnii {
+    padding: 7px;
+    margin-top: 15px;
+    background-color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.btnii button {
+    background-color: #1b9c24;
+}
+
+.page {
+    float: right;
+    font-family: sans-serif;
+    margin-top: 220px;
+    margin-left: -100px;
+    margin-right: -345px;
+    font-size: 15px;
+}
